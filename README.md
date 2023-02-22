@@ -1,4 +1,4 @@
 ﻿# formulario-de-js
 
 Olha o web.
-https://jhonmanuelg.github.io/formulario-de-js/
+https://jhonmanuelg.github.io/formulario-cadastro-js/
